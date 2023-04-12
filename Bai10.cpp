@@ -1,5 +1,5 @@
 #include <iostream>
-
+//Cho mảng 1 chiều các số nguyên. Viết hàm đệ quy xuất mảng
 using namespace std;
 //Bai 12
 void print(int arr[], int n) {
