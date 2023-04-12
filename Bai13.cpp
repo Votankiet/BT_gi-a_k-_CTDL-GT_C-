@@ -1,4 +1,5 @@
 #include <iostream>
+//Cho mảng gồm các phần tử { 41, 23, 4, 14, 56, 1 } nhập vào từ bàn phím. Viết chương trình để sắp xếp. Sử dụng phương pháp sắp xếp cây để sắp xếp
 using namespace std;
  //bai7
 // To heapify a subtree rooted with node i
