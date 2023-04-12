@@ -1,5 +1,5 @@
 #include <iostream>
-
+//Hãy khai báo cấu trúc dữ liệu của cây nhị phân các số nguy
 using namespace std;
 //Bai 14
 struct BinaryTree {
