@@ -1,5 +1,5 @@
 #include <iostream>
-
+// Tính T(n) = 1 x 2 x 3 x...x n 
 using namespace std;
 //Bai 21
 int sol(int n) {
