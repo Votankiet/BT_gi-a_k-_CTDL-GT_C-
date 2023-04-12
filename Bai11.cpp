@@ -1,5 +1,5 @@
 #include <iostream>
-
+//Cho mảng 1 chiều các số thực. Viết hàm đếm số lượng giá trị dương trong mảng bằng phương pháp đệ quy.
 using namespace std;
 //Bai 11
 double countOfPosEleArray(double arr[], int n) {
