@@ -1,5 +1,5 @@
 #include <iostream>
-
+//Cho mảng 1 chiều các số nguyên. Viết hàm tính tổng các số chẵn trong mảng bằng phương pháp đệ quy.
 using namespace std;
 //Bai 10
 int sumOfEvenEleArray(int arr[], int n) {
