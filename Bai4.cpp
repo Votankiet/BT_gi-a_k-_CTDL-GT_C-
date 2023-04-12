@@ -1,5 +1,5 @@
 #include <iostream>
-
+//Cho mảng 1 chiều các số thực. Hãy viết hàm đệ quy kiểm tra mảng có thỏa mảng tính chất “toàn giá trị  âm"
 using namespace std;
 //Bai 18
 bool isNegativeArr(double arr[], int n) {
