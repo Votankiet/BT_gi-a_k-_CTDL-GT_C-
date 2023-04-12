@@ -1,5 +1,5 @@
 #include <iostream>
-
+//Hãy khai báo cấu trúc dữ liệu của danh sách liên kết kép các số nguy
 using namespace std;
 //Bai 15
 struct DoubleLinkedList {
