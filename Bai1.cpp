@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//câu  20
 // Hàm chèn phần tử vào mảng đã sắp xếp tăng dần
 void insert(float arr[], int n) {
     if (n <= 1) return; // Trường hợp cơ bản
