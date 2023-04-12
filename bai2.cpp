@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// câu 19
 int findMax(int arr[], int n) {
     // Trường hợp cơ sở: nếu chỉ có 1 phần tử trong mảng, trả về giá trị đó
     if (n == 1) {
