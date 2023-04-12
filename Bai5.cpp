@@ -1,5 +1,5 @@
 #include <iostream>
-
+//Cho mảng 1 chiều các số thực. Hãy viết hàm đệ quy tính tổng các giá trị có trong mảng.
 using namespace std;
 //Bai 17
 double sumOfArray(double arr[], int n) {
